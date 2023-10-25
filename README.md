@@ -38,10 +38,4 @@ The site is straightforward to use. Here's a brief overview:
 Homepage: Explore our portfolio and access service information.
 Services: Discover our web design services and request a quote.
 Contact: Use the contact form to reach out to us.
-Feel free to adapt the content and design to your specific needs.
-
-Contributing
-We welcome contributions to improve this site. If you'd like to contribute, please follow our contribution guidelines.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Feel free to adapt the content and design to your specific need
