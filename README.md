@@ -24,8 +24,8 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/yourusername/web-design-site.git
-Navigate to the project directory:
+git clone 
+https://github.com/archp1995/web_page.git Navigate to the project directory:
 
 bash
 Copy code
